@@ -1,0 +1,7 @@
+{
+  "name": "May Panahon: 2D Pixel Art Game",
+  "description": "A 2D pixel art narrative web game set at dusk along a Philippine shore hill trail celebrating a special 26th birthday.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
